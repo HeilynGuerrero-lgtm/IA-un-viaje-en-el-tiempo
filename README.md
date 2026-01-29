@@ -5,11 +5,11 @@ El jugador viaja a diferentes épocas donde la IA comienza a influir en la human
 
 
 # Características principales
--Narrativa interactiva con múltiples rutas y finales
--Sistema de decisiones que modifica el curso de la historia
--Simulación de comportamientos de IA mediante variables y estados
--Enfoque educativo sobre la evolución y ética de la Inteligencia Artificial
--Desarrollo basado en RPG Maker
+  - Narrativa interactiva con múltiples rutas y finales
+  - Sistema de decisiones que modifica el curso de la historia
+  - Simulación de comportamientos de IA mediante variables y estados
+  - Enfoque educativo sobre la evolución y ética de la Inteligencia Artificial
+  - Desarrollo basado en RPG Maker
 
 # Enfoque del proyecto
 Este proyecto fue diseñado como una herramienta educativa y experimental, combinando:
