@@ -5,7 +5,7 @@ El jugador viaja a diferentes épocas donde la IA comienza a influir en la human
 
 Proyecto desarrollado en **RPG Maker MV** como novela visual educativa sobre la historia y el impacto de la Inteligencia Artificial.
 
-### ▶️ Jugar el proyecto
+## ▶️ Jugar el proyecto
 Puedes jugar la versión publicada en itch.io aquí:  
 👉 https://yuriart18.itch.io/ia-un-viaje-en-el-tiempo
 
